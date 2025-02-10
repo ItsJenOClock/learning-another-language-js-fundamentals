@@ -13,8 +13,15 @@
 // animals = ["tiger", "panda", "raccoon"]
 // animals.append("opossum")
 
+const animals = ['tiger', 'panda', 'raccoon'];
+console.log({ animals });
+animals.push('oppossum');
+console.log({ animals });
+
 // dog = {"name": "Sprinkles", "age": 3}
 // dog["is_friendly"] = True
+
+const dog = {};
 
 //
 //
